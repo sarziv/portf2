@@ -1,14 +1,146 @@
 
 // Fonts
 @import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
 
 // Variables
 @import 'variables';
 
+
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+  margin:0;
+  padding:0;
+}
+
+.front {
+  background-image: url("../image/trianglify2.png");
+  height: 100vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+@media only screen and (max-width: 600px) {
+  .navbar {
+    background: hsla(1,0%,100%,.4);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+  .navbar-toggler {
+    border: 1px solid black;
+  }
+  .navbar-toggler-icon {
+    padding-top: 5px;
+  }
+  .navbar-collapse {
+
+
+  }
+
+  .underline {
+    text-align: center;
+    font-size: 4vh;
+  }
+  .navFont {
+    opacity: 1;
+    padding-left: 35%;
+    text-align: center !important;
+    color: darkred;
+    font-size: 5vh;
+    font-family: 'Righteous', cursive;
+    margin-right: 1vw;
+  }
+  .navFont:hover {
+    color: #ff3440;
+  }
+}
+
+a {
+  text-decoration: none !important;
+}
+@media only screen and (min-width: 600px) {
+
+  .underline {
+    border-bottom: solid 2px darkred;
+    font-size: 2vh;
+  }
+  .underline:hover {
+    color: #ff3440;
+  }
+
+  .navFont {
+    color: darkred;
+    font-size: 3vh;
+    font-family: 'Righteous', cursive;
+    margin-right: 1vw;
+  }
+  .navFont:hover {
+    color: #ff3440;
+  }
+}
+
+.typerSize{
+  font-size: 5vh;
+}
+
+.typerPos{
+  z-index: -99;
+  padding-top: 45vh;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+.typerButton{
+  color: black;
+  padding-top: 30vh;
+  font-size: 3vh;
+  -webkit-animation-name: downbutton; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-iteration-count: 999;
+  animation-name: downbutton;
+  animation-duration: 4s;
+}
+@keyframes downbutton {
+  0%   {padding-top: 28vh;}
+  25%  {padding-top: 33vh;}
+  50%  {padding-top: 28vh;}
+  100% {padding-top: 33vh;}
+}
+.infoNameAbout {
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #F8FAFC;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+.infoData {
+  height: 90vh;
+  width: auto;
+  background-color: #EE7047;
+}
+.infoNameSkills{
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #F8FAFC;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
 }
