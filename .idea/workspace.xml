@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/resources/sass/app.scss" line="173" />
+    <bookmark url="file://$PROJECT_DIR$/resources/sass/app.scss" line="168" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b982ec-5877-4344-a7da-45d50adb2cb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/modals/modal_proj1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/projects/proj1.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/projects/proj2.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/projects/proj3.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/projects/proj4.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/projects.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/projects.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +31,14 @@
         <counts>
           <entry key="jpg" value="2" />
           <entry key="js" value="1" />
-          <entry key="php" value="35" />
+          <entry key="php" value="36" />
           <entry key="png" value="12" />
           <entry key="scss" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Blade" value="18" />
+          <entry key="Blade" value="19" />
           <entry key="Image" value="14" />
           <entry key="JavaScript" value="1" />
           <entry key="PHP" value="17" />
@@ -52,15 +47,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="1958" />
-          <entry key="scss" value="1763" />
+          <entry key="php" value="1961" />
+          <entry key="scss" value="1787" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Blade" value="1932" />
+          <entry key="Blade" value="1935" />
           <entry key="PHP" value="26" />
-          <entry key="SCSS" value="1763" />
+          <entry key="SCSS" value="1787" />
         </counts>
       </usages-collector>
     </session>
@@ -72,15 +67,6 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/layouts/contacts.blade.php">
               <provider selected="true" editor-type-id="text-editor">
@@ -112,11 +98,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/projects/proj1.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="112" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="112" />
+                <state relative-caret-position="34">
+                  <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resources/views/layouts/typer.blade.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
                 </state>
               </provider>
             </entry>
@@ -173,8 +168,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="697">
-                  <caret line="263" column="24" selection-start-line="263" selection-start-column="24" selection-end-line="263" selection-end-column="24" />
+                <state relative-caret-position="272">
+                  <caret line="49" selection-start-line="49" selection-end-line="49" />
                 </state>
               </provider>
             </entry>
@@ -218,17 +213,17 @@
         <option value="$PROJECT_DIR$/resources/views/navbar.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/skills.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/edu.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/about.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/contacts.blade.php" />
-        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/resources/views/projects/proj4.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/projects/proj3.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/projects/proj2.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/projects.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/modals/modal_proj1.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/projects/proj1.blade.php" />
+        <option value="$PROJECT_DIR$/resources/sass/app.scss" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" />
       </list>
     </option>
   </component>
@@ -455,12 +450,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555366553496</updated>
-      <workItem from="1555366554808" duration="40446000" />
+      <workItem from="1555366554808" duration="41779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40446000" />
+    <option name="totallyTimeSpent" value="41779000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,16 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/typer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#span#2;n#h1#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/skills.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -674,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/projects/proj4.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -720,10 +698,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/projects/proj1.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="112" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="112" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/typer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
         </state>
       </provider>
     </entry>

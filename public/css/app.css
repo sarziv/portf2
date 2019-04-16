@@ -10685,7 +10685,7 @@ html {
 
 @media only screen and (max-width: 600px) {
   .navbar {
-    background: rgba(255, 255, 255, 0.4);
+    background: white;
     position: absolute;
     top: 0;
     right: 0;
@@ -10706,7 +10706,6 @@ html {
   }
 
   .navFont {
-    opacity: 1;
     padding-left: 35%;
     text-align: center !important;
     color: darkred;

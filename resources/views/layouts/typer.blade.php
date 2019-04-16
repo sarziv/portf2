@@ -1,7 +1,7 @@
 <div class="typerPos text-sm-center">
     <h2>Hi! I'm Šarūnas</h2>
     <h1>
-        <span class="typerSize">I love</span> <span
+        <span class="typerSize">I love to</span> <span
                 class="typer"
                 id="some-id"
                 data-words="Create.,Develop.,Code.,Design.,Bash."
