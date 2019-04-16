@@ -10675,7 +10675,7 @@ html {
 }
 
 .front {
-  background-image: url(/images/trianglify2.png?9ddb7d50bd550d0b0524651fc53c2934);
+  background-image: url(/images/frontpic.png?8f87e6a60a5a28dcf72f05e8c23322c3);
   height: 100vh;
   width: auto;
   position: relative;
@@ -10812,16 +10812,19 @@ a {
   text-align: center;
   height: 10vh;
   width: auto;
-  background-color: #F8FAFC;
+  background-color: #FED19F;
   font-family: "Righteous", cursive;
   font-size: 5vh;
   color: darkred;
 }
 
-.infoData {
+.infoDataAbout {
   height: 90vh;
   width: auto;
-  background-color: #EE7047;
+  background-image: url(/images/triglifynew3.png?552c37572a1ecc2c318823b72d8e69c4);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .infoNameSkills {
@@ -10829,9 +10832,85 @@ a {
   text-align: center;
   height: 10vh;
   width: auto;
-  background-color: #F8FAFC;
+  background-color: #FED19F;
   font-family: "Righteous", cursive;
   font-size: 5vh;
   color: darkred;
+}
+
+.infoDataSkills {
+  height: 90vh;
+  width: auto;
+  background-image: url(/images/trianflifyInfo4new.png?b725e564b9a8d6ad0965ceaecac4aae8);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.infoNameEdu {
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #FED19F;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+
+.infoDataEdu {
+  height: 90vh;
+  width: auto;
+  background-image: url(/images/tringlifynew2.png?f5dfb04fc128721766b73cb8ad9591fd);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.infoNameProjects {
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #FED19F;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+
+.infoDataProjects {
+  height: 200vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.infoNameContacts {
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #FED19F;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+
+.infoDataContacts {
+  height: 70vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.infoDataContactsFooter {
+  height: 20vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FED19F;
 }
 

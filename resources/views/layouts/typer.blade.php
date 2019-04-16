@@ -1,12 +1,12 @@
 <div class="typerPos text-sm-center">
     <h2>Hi! I'm Šarūnas</h2>
     <h1>
-        <span class="typerSize">I can</span> <span
+        <span class="typerSize">I love</span> <span
                 class="typer"
                 id="some-id"
-                data-words="Create.,Develop.,Code.,Design."
+                data-words="Create.,Develop.,Code.,Design.,Bash."
                 data-delay="100"
-                data-colors="#0011FF,#177E89,#8B0000,#81FF00">
+                data-colors="#0011FF,#177E89,#8B0000,#81FF00,#F8FAFC">
   </span>
         <span style="font-size:1.2em;vertical-align:middle;" class="cursor" data-cursorDisplay="|"
               data-owner="some-id"></span>

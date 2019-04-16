@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/resources/sass/app.scss" line="172" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b982ec-5877-4344-a7da-45d50adb2cb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/js/typer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/martin-widenka-555176-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/red_footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/red_space.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/trianflifyInfo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/trianflifyInfo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/trianglify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/image/trianglify2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/front.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/skills.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/navbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/frontpic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/trianflifyInfo4new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/triglifynew3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/tringlifynew2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/contacts.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/edu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/projects.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/martin-widenka-555176-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/red_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/red_space.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/trianflifyInfo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/trianflifyInfo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/trianglify.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/image/trianglify2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/about.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/front.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/skills.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/skills.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +49,15 @@
         <counts>
           <entry key="jpg" value="2" />
           <entry key="js" value="1" />
-          <entry key="php" value="24" />
-          <entry key="png" value="1" />
+          <entry key="php" value="30" />
+          <entry key="png" value="12" />
           <entry key="scss" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Blade" value="7" />
-          <entry key="Image" value="3" />
+          <entry key="Blade" value="13" />
+          <entry key="Image" value="14" />
           <entry key="JavaScript" value="1" />
           <entry key="PHP" value="17" />
           <entry key="SCSS" value="3" />
@@ -61,15 +65,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="1268" />
-          <entry key="scss" value="1366" />
+          <entry key="php" value="1479" />
+          <entry key="scss" value="1511" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Blade" value="1242" />
+          <entry key="Blade" value="1453" />
           <entry key="PHP" value="26" />
-          <entry key="SCSS" value="1366" />
+          <entry key="SCSS" value="1511" />
         </counts>
       </usages-collector>
     </session>
@@ -84,8 +88,26 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
-                  <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+                <state relative-caret-position="340">
+                  <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resources/views/layouts/contacts.blade.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="50" lean-forward="true" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/views/layouts/projects.blade.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
                 </state>
               </provider>
             </entry>
@@ -93,8 +115,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/layouts/about.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+                <state>
+                  <caret selection-end-line="3" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -116,8 +138,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/layouts/typer.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+                <state relative-caret-position="255">
+                  <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
                   <folding>
                     <element signature="n#style#0;n#span#2;n#h1#0;n#div#0;n#!!top" expanded="true" />
                   </folding>
@@ -139,11 +161,11 @@
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/views/navbar.blade.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="238">
-                  <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+                  <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
@@ -155,10 +177,24 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+                <state relative-caret-position="493">
+                  <caret line="206" column="18" lean-forward="true" selection-start-line="206" selection-start-column="18" selection-end-line="206" selection-end-column="18" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/views/layouts/edu.blade.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/image/triglifynew3.png">
+              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
         </leaf>
@@ -183,11 +219,14 @@
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/front.blade.php" />
         <option value="$PROJECT_DIR$/public/js/typer.js" />
-        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/skills.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/about.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/skills.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/edu.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/typer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/about.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/projects.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/contacts.blade.php" />
         <option value="$PROJECT_DIR$/resources/sass/app.scss" />
       </list>
     </option>
@@ -293,8 +332,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="729" />
-    <option name="y" value="-23" />
+    <option name="x" value="635" />
+    <option name="y" value="-18" />
     <option name="width" value="974" />
     <option name="height" value="1040" />
   </component>
@@ -401,12 +440,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555366553496</updated>
-      <workItem from="1555366554808" duration="28300000" />
+      <workItem from="1555366554808" duration="34917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28300000" />
+    <option name="totallyTimeSpent" value="34917000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,14 +460,14 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8036212" visible="true" weight="0.13965885" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80368763" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" sideWeight="0.19448946" side_tool="true" weight="0.13326226" />
-      <window_info id="npm" order="2" sideWeight="0.19637883" side_tool="true" visible="true" weight="0.13965885" />
+      <window_info id="npm" order="2" sideWeight="0.19631237" side_tool="true" visible="true" weight="0.13965885" />
       <window_info id="Favorites" order="3" sideWeight="0.1967742" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4968017" visible="true" weight="0.22125813" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.22559653" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4968017" weight="0.22125813" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4989339" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -537,22 +576,22 @@
     <entry file="file://$PROJECT_DIR$/bootstrap/cache/packages.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/navbar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/typer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#span#2;n#h1#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/trianglify.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/skills.blade.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -561,34 +600,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/about.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/images/trianglify.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/tringlifynew2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/trianflifyInfo4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/trianflifyInfo3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/trianglify.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/trianglify2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/trianflifyInfo5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/triglifynew3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/front.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/typer.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#span#2;n#h1#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/edu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/projects.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/contacts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="50" lean-forward="true" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/navbar.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="493">
+          <caret line="206" column="18" lean-forward="true" selection-start-line="206" selection-start-column="18" selection-end-line="206" selection-end-column="18" />
         </state>
       </provider>
     </entry>

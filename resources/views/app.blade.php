@@ -19,12 +19,20 @@
             @include('navbar')
             @include('layouts.typer')
         </div>
-
         <div class="about">
             @include('layouts.about')
         </div>
         <div class="skills">
             @include('layouts.skills')
+        </div>
+        <div class="edu">
+            @include('layouts.edu')
+        </div>
+        <div class="projects">
+            @include('layouts.projects')
+        </div>
+        <div class="contacts">
+            @include('layouts.contacts')
         </div>
     </div>
     </body>

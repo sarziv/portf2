@@ -24,7 +24,7 @@ body, html {
 }
 
 .front {
-  background-image: url("../image/trianglify2.png");
+  background-image: url("../image/frontpic.png");
   height: 100vh;
   width: auto;
   position: relative;
@@ -124,23 +124,98 @@ a {
   text-align: center;
   height: 10vh;
   width: auto;
-  background-color: #F8FAFC;
+  background-color: #FED19F;
   font-family: "Righteous", cursive;
   font-size: 5vh;
   color: darkred;
 }
-.infoData {
+.infoDataAbout {
   height: 90vh;
   width: auto;
-  background-color: #EE7047;
+  background-image: url("../image/triglifynew3.png");
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 .infoNameSkills{
   padding-top: 0vh;
   text-align: center;
   height: 10vh;
   width: auto;
-  background-color: #F8FAFC;
+  background-color: #FED19F;
   font-family: "Righteous", cursive;
   font-size: 5vh;
   color: darkred;
+}
+.infoDataSkills {
+  height: 90vh;
+  width: auto;
+  background-image: url("../image/trianflifyInfo4new.png");
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.infoNameEdu{
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #FED19F;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+.infoDataEdu {
+  height: 90vh;
+  width: auto;
+  background-image: url("../image/tringlifynew2.png");
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.infoNameProjects{
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #FED19F;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+.infoDataProjects {
+  height: 200vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.infoNameContacts{
+  padding-top: 0vh;
+  text-align: center;
+  height: 10vh;
+  width: auto;
+  background-color: #FED19F;
+  font-family: "Righteous", cursive;
+  font-size: 5vh;
+  color: darkred;
+}
+.infoDataContacts{
+  height: 70vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.infoDataContactsFooter{
+  height: 20vh;
+  width: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FED19F;
 }
