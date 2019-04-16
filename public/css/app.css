@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito);@import url(https://fonts.googleapis.com/css?family=Righteous);@import url(https://fonts.googleapis.com/css?family=Exo+2);@import url(https://fonts.googleapis.com/css?family=Orbitron);@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Nunito);@import url(https://fonts.googleapis.com/css?family=Righteous);@import url(https://fonts.googleapis.com/css?family=Exo+2);@import url(https://fonts.googleapis.com/css?family=Orbitron);@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);@import url(https://fonts.googleapis.com/css?family=Titillium+Web);@charset "UTF-8";
 
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
@@ -10878,12 +10878,38 @@ a {
   color: darkred;
 }
 
-.infoDataProjects {
-  height: 200vh;
-  width: auto;
-  position: relative;
-  background-repeat: no-repeat;
-  background-size: cover;
+@media only screen and (max-width: 600px) {
+  .infoDataProjects {
+    height: 165vh;
+    width: auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Titillium Web", sans-serif;
+    font-size: large;
+  }
+
+  .projectBox {
+    padding-top: 5vh;
+    height: 40vh;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .infoDataProjects {
+    height: 125vh;
+    width: auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Titillium Web", sans-serif;
+    font-size: large;
+  }
+
+  .projectBox {
+    padding-top: 5vh;
+    height: 30vh;
+  }
 }
 
 .infoNameContacts {
@@ -10912,5 +10938,32 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #FED19F;
+}
+
+.projectOfColor {
+  width: auto;
+  background-color: #FED19F;
+}
+
+.borleft {
+  border-left: 2px solid darkred;
+}
+
+.borright {
+  border-right: 2px solid darkred;
+}
+
+.projectpad {
+  padding-top: 10px;
+}
+
+.infoDataProjects a {
+  text-decoration: none;
+  color: black;
+}
+
+.infoDataProjects a:hover {
+  text-decoration: none;
+  color: white;
 }
 
