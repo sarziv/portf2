@@ -1,61 +1,69 @@
-<!-- Modal 1 -->
-<div class="modal fade bd-example-modal-lg" id="myLargeModalLabel1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel1" aria-hidden="true">
+<!-- Modal Image -->
+<div class="modal fade bd-example-modal-lg" id="myLargeModalProj1Image" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel1" aria-hidden="true">
+    <button type="button" class="close modal-button-exit" data-dismiss="modal" aria-label="Close">
+        <span class="model-exit-icon" aria-hidden="true"><i class=" fas fa fa-times"></i></span>
+    </button>
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle1">Project 1</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
+
             <div class="modal-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum, arcu eu lacinia aliquet, ex nibh interdum mi, id faucibus est dui nec tortor. Quisque nisi lectus, cursus at mattis vel, finibus quis libero. Mauris vitae purus diam. Aenean tempor volutpat enim, quis pulvinar eros iaculis ac. Sed sed elit eu sem facilisis semper eget id enim. Nam ullamcorper turpis quis augue ornare interdum. Curabitur tempor consequat pretium. Morbi iaculis justo sed tellus convallis mattis. Fusce lobortis finibus nunc sit amet rutrum. Duis eget risus lacus. Proin venenatis imperdiet turpis ut viverra. Phasellus hendrerit urna vel diam dapibus, at condimentum lacus dignissim. Vivamus sollicitudin turpis erat, id scelerisque felis maximus eget. Proin eget facilisis tortor. Curabitur velit magna, iaculis sed dolor nec, dignissim dapibus eros.
+                <div class="row">
+                    <div class="col-6"><img class="img-responsive" src="https://images.unsplash.com/photo-1445295029071-5151176738d0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d1b06f7f69fb043b7d35a48180c5668d" style="max-height:100%;max-width: 100%;padding-bottom: 2vh;"></div>
+                    <div class="col-6"><img class="img-responsive" src="https://images.unsplash.com/photo-1445295029071-5151176738d0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d1b06f7f69fb043b7d35a48180c5668d" style="max-height:100%;max-width: 100%;padding-bottom: 2vh;"></div>
+                </div>
 
-                Quisque augue arcu, sagittis sit amet elit ac, facilisis varius ligula. Duis felis ligula, commodo non placerat at, imperdiet non metus. Sed scelerisque urna ac purus bibendum, a sagittis erat venenatis. Donec sapien tellus, tincidunt eget feugiat at, egestas eget elit. Fusce quam sem, gravida eget lorem vitae, porta dignissim metus. Nunc scelerisque sapien risus, quis tristique justo blandit in. Pellentesque ut erat nec sem pretium faucibus sit amet vel turpis. Quisque eu lectus elit.
-
-                Praesent eu neque quis velit ullamcorper commodo et et felis. In ultricies feugiat odio elementum lobortis. Aliquam luctus ipsum arcu, et dignissim urna laoreet at. Integer condimentum elit sit amet aliquam aliquet. Duis sollicitudin ligula quis orci mattis, quis vulputate est fringilla. Donec fringilla mollis turpis id fringilla. Cras in rhoncus erat. Suspendisse placerat leo quis elementum blandit. Nam in semper lorem, quis ornare est. Nunc suscipit dolor sit amet augue auctor efficitur. Nam non turpis at nisl tempor hendrerit.
-
-                Cras malesuada felis sit amet nisi viverra, quis dictum risus posuere. Nulla commodo diam eu leo iaculis finibus eu finibus magna. Curabitur pharetra odio metus, vel finibus lorem varius eget. Vestibulum ut pellentesque nisl, nec efficitur erat. Donec at pellentesque tellus. Nulla ac pharetra arcu, vitae lobortis sem. Vivamus volutpat egestas tellus, ac auctor ipsum ornare vitae. Nunc varius interdum sem, eget viverra arcu pellentesque a. Cras tellus risus, aliquam at viverra eu, tincidunt nec velit. Vestibulum sollicitudin varius quam. Suspendisse potenti. Pellentesque ut tortor a sem dictum eleifend in ac lectus. Aliquam eu felis vitae ante tempor hendrerit non ut risus. Aliquam iaculis erat ut leo egestas, ut commodo libero ultrices. Vestibulum suscipit, odio ac placerat mollis, nisi velit rhoncus lectus, non varius elit tortor cursus sapien. In hac habitasse platea dictumst.
-
-                Nullam eleifend ornare nulla, ut ultrices neque viverra at. Vestibulum lobortis arcu vel pharetra interdum. Curabitur sit amet commodo sem, sed aliquam sem. Integer fringilla justo a ullamcorper mollis. Curabitur consequat, risus non auctor pretium, nibh justo porttitor lacus, ut aliquet quam erat ut ante. Pellentesque vulputate tristique sodales. Aenean at placerat justo, a fermentum sem. Praesent egestas pretium mauris ac dignissim.
-
-                Mauris eu sollicitudin enim. Mauris vestibulum pharetra justo, vitae blandit justo tincidunt nec. Morbi accumsan velit purus. Aliquam fringilla porta placerat. Vestibulum eget neque massa. Aliquam sed augue ut ante tempus luctus sit amet sed neque. Duis nec facilisis diam, ac condimentum neque. Nullam luctus iaculis elit a sagittis. Donec tempus est sed ipsum pellentesque condimentum. Integer vehicula et mauris non luctus. Proin tristique nunc rutrum quam pretium interdum. Mauris porttitor auctor nisi, ac volutpat lorem scelerisque at. Nunc luctus iaculis turpis, id pretium turpis pellentesque eu. Aliquam pretium vehicula scelerisque. Praesent ornare molestie nisl.
-
-                Nulla id semper ante. Vivamus dictum erat sit amet leo porttitor, eget facilisis erat mattis. Nullam at turpis dapibus, accumsan lectus eu, molestie ante. Mauris nisl nisi, tincidunt a lorem non, laoreet pellentesque metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate, urna sed eleifend laoreet, neque nisl eleifend nunc, vel volutpat risus ipsum vestibulum metus. Pellentesque dictum massa at neque porta porta id vel sem. Vestibulum accumsan neque eget felis fermentum, id lacinia tellus mattis. Nunc accumsan felis at eros euismod, in vulputate lacus consectetur. Quisque consectetur cursus nisl nec sagittis. Donec tristique mauris a risus tincidunt, vitae fermentum ex molestie. Vestibulum eget facilisis nulla, sit amet auctor ex. In facilisis rhoncus nisi, ac finibus orci tincidunt ac.
-
-                Etiam tempor, ligula vitae pulvinar gravida, purus sapien pellentesque ante, quis varius urna nibh blandit mauris. Praesent ut blandit mi, a aliquet nisi. Aliquam eget blandit leo, vitae tempus nulla. Donec non ex in dolor porttitor euismod. In hac habitasse platea dictumst. Maecenas eleifend metus non erat tempus varius. Sed euismod rhoncus risus at faucibus. Aliquam rutrum ligula ac neque consequat, sit amet venenatis urna molestie. Etiam in volutpat metus, sit amet consectetur nisi. Aliquam luctus, nulla in hendrerit dapibus, odio lorem maximus nisl, eget lobortis felis tortor nec dolor. Nunc vehicula neque urna, et scelerisque nunc elementum eget. Duis erat nulla, consequat vulputate risus in, blandit tempor est.
-            </div>
+                <img class="img-responsive" src="https://images.unsplash.com/photo-1445295029071-5151176738d0?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d1b06f7f69fb043b7d35a48180c5668d" style="max-height:100%;max-width: 100%;">
+             </div>
         </div>
     </div>
 </div>
 
 
 <!-- Modal 2 -->
-<div class="modal fade bd-example-modal-lg" id="myLargeModalLabel2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel2" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
+<div class="modal fade bd-example-modal-lg" id="myLargeModalProj1Details" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel2" aria-hidden="true">
+    <button type="button" class="close modal-button-exit" data-dismiss="modal" aria-label="Close">
+        <span class="model-exit-icon" aria-hidden="true"><i class=" fas fa fa-times"></i></span>
+    </button>
+    <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle2">Project 2</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
+                <h5 class="modal-title" id="myLargeModalProj1Details">Project 2</h5>
             </div>
             <div class="modal-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum, arcu eu lacinia aliquet, ex nibh interdum mi, id faucibus est dui nec tortor. Quisque nisi lectus, cursus at mattis vel, finibus quis libero. Mauris vitae purus diam. Aenean tempor volutpat enim, quis pulvinar eros iaculis ac. Sed sed elit eu sem facilisis semper eget id enim. Nam ullamcorper turpis quis augue ornare interdum. Curabitur tempor consequat pretium. Morbi iaculis justo sed tellus convallis mattis. Fusce lobortis finibus nunc sit amet rutrum. Duis eget risus lacus. Proin venenatis imperdiet turpis ut viverra. Phasellus hendrerit urna vel diam dapibus, at condimentum lacus dignissim. Vivamus sollicitudin turpis erat, id scelerisque felis maximus eget. Proin eget facilisis tortor. Curabitur velit magna, iaculis sed dolor nec, dignissim dapibus eros.
+                <h4>User</h4>
+                    <ul>
+                        <li>Registration</li>
+                        <li>Login</li>
+                        <li>Password reset</li>
+                        <li>Salary history</li>
+                        <li>Specific salary calculator</li>
+                        <li>Monthly salary history</li>
+                        <li>Memo tab</li>
+                    </ul>
+                <hr>
+                <h4>Functionality</h4>
+                <ul>
+                    <li>Current month analytics</li>
+                </ul>
+                <hr>
+                <h4>Data storage</h4>
+                <ul>
+                    <li>
+                    CRUD - create, read, update, and delete.
+                    </li>
+                </ul>
+                <hr>
+                <h4>Admin</h4>
+                    <ul>
+                        <li>Administration tab - password protected</li>
+                    </ul>
+                <ul>
 
-                Quisque augue arcu, sagittis sit amet elit ac, facilisis varius ligula. Duis felis ligula, commodo non placerat at, imperdiet non metus. Sed scelerisque urna ac purus bibendum, a sagittis erat venenatis. Donec sapien tellus, tincidunt eget feugiat at, egestas eget elit. Fusce quam sem, gravida eget lorem vitae, porta dignissim metus. Nunc scelerisque sapien risus, quis tristique justo blandit in. Pellentesque ut erat nec sem pretium faucibus sit amet vel turpis. Quisque eu lectus elit.
+                </ul>
 
-                Praesent eu neque quis velit ullamcorper commodo et et felis. In ultricies feugiat odio elementum lobortis. Aliquam luctus ipsum arcu, et dignissim urna laoreet at. Integer condimentum elit sit amet aliquam aliquet. Duis sollicitudin ligula quis orci mattis, quis vulputate est fringilla. Donec fringilla mollis turpis id fringilla. Cras in rhoncus erat. Suspendisse placerat leo quis elementum blandit. Nam in semper lorem, quis ornare est. Nunc suscipit dolor sit amet augue auctor efficitur. Nam non turpis at nisl tempor hendrerit.
 
-                Cras malesuada felis sit amet nisi viverra, quis dictum risus posuere. Nulla commodo diam eu leo iaculis finibus eu finibus magna. Curabitur pharetra odio metus, vel finibus lorem varius eget. Vestibulum ut pellentesque nisl, nec efficitur erat. Donec at pellentesque tellus. Nulla ac pharetra arcu, vitae lobortis sem. Vivamus volutpat egestas tellus, ac auctor ipsum ornare vitae. Nunc varius interdum sem, eget viverra arcu pellentesque a. Cras tellus risus, aliquam at viverra eu, tincidunt nec velit. Vestibulum sollicitudin varius quam. Suspendisse potenti. Pellentesque ut tortor a sem dictum eleifend in ac lectus. Aliquam eu felis vitae ante tempor hendrerit non ut risus. Aliquam iaculis erat ut leo egestas, ut commodo libero ultrices. Vestibulum suscipit, odio ac placerat mollis, nisi velit rhoncus lectus, non varius elit tortor cursus sapien. In hac habitasse platea dictumst.
 
-                Nullam eleifend ornare nulla, ut ultrices neque viverra at. Vestibulum lobortis arcu vel pharetra interdum. Curabitur sit amet commodo sem, sed aliquam sem. Integer fringilla justo a ullamcorper mollis. Curabitur consequat, risus non auctor pretium, nibh justo porttitor lacus, ut aliquet quam erat ut ante. Pellentesque vulputate tristique sodales. Aenean at placerat justo, a fermentum sem. Praesent egestas pretium mauris ac dignissim.
 
-                Mauris eu sollicitudin enim. Mauris vestibulum pharetra justo, vitae blandit justo tincidunt nec. Morbi accumsan velit purus. Aliquam fringilla porta placerat. Vestibulum eget neque massa. Aliquam sed augue ut ante tempus luctus sit amet sed neque. Duis nec facilisis diam, ac condimentum neque. Nullam luctus iaculis elit a sagittis. Donec tempus est sed ipsum pellentesque condimentum. Integer vehicula et mauris non luctus. Proin tristique nunc rutrum quam pretium interdum. Mauris porttitor auctor nisi, ac volutpat lorem scelerisque at. Nunc luctus iaculis turpis, id pretium turpis pellentesque eu. Aliquam pretium vehicula scelerisque. Praesent ornare molestie nisl.
-
-                Nulla id semper ante. Vivamus dictum erat sit amet leo porttitor, eget facilisis erat mattis. Nullam at turpis dapibus, accumsan lectus eu, molestie ante. Mauris nisl nisi, tincidunt a lorem non, laoreet pellentesque metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate, urna sed eleifend laoreet, neque nisl eleifend nunc, vel volutpat risus ipsum vestibulum metus. Pellentesque dictum massa at neque porta porta id vel sem. Vestibulum accumsan neque eget felis fermentum, id lacinia tellus mattis. Nunc accumsan felis at eros euismod, in vulputate lacus consectetur. Quisque consectetur cursus nisl nec sagittis. Donec tristique mauris a risus tincidunt, vitae fermentum ex molestie. Vestibulum eget facilisis nulla, sit amet auctor ex. In facilisis rhoncus nisi, ac finibus orci tincidunt ac.
-
-                Etiam tempor, ligula vitae pulvinar gravida, purus sapien pellentesque ante, quis varius urna nibh blandit mauris. Praesent ut blandit mi, a aliquet nisi. Aliquam eget blandit leo, vitae tempus nulla. Donec non ex in dolor porttitor euismod. In hac habitasse platea dictumst. Maecenas eleifend metus non erat tempus varius. Sed euismod rhoncus risus at faucibus. Aliquam rutrum ligula ac neque consequat, sit amet venenatis urna molestie. Etiam in volutpat metus, sit amet consectetur nisi. Aliquam luctus, nulla in hendrerit dapibus, odio lorem maximus nisl, eget lobortis felis tortor nec dolor. Nunc vehicula neque urna, et scelerisque nunc elementum eget. Duis erat nulla, consequat vulputate risus in, blandit tempor est.
             </div>
         </div>
     </div>
