@@ -1,6 +1,6 @@
 <!-- Modal Image -->
-<div class="modal fade bd-example-modal-lg" id="myLargeModalProj1Image" tabindex="-1" role="dialog"
-     aria-labelledby="myLargeModalLabel1" aria-hidden="true">
+<div class="modal fade bd-example-modal-lg" id="myLargeModalProj4Image" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalProj4Image" aria-hidden="true">
     <button type="button" class="close modal-button-exit" data-dismiss="modal" aria-label="Close">
         <span class="model-exit-icon" aria-hidden="true"><i class=" fas fa fa-times"></i></span>
     </button>
@@ -26,51 +26,41 @@
 </div>
 
 
-<!-- Modal 2 -->
-<div class="modal fade bd-example-modal-lg" id="myLargeModalProj1Details" tabindex="-1" role="dialog"
-     aria-labelledby="myLargeModalLabel2" aria-hidden="true">
+<!-- Modal Functions -->
+<div class="modal fade bd-example-modal-lg" id="myLargeModalProj4Details" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalProj4Details" aria-hidden="true">
     <button type="button" class="close modal-button-exit" data-dismiss="modal" aria-label="Close">
         <span class="model-exit-icon" aria-hidden="true"><i class=" fas fa fa-times"></i></span>
     </button>
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="myLargeModalProj1Details">Salary sytem - Features</h5>
+                <h5 class="modal-title" id="myLargeModalProj4Details">Droperino - Features</h5>
             </div>
             <div class="modal-body">
-                <h4>User</h4>
+
+                <h4>File System</h4>
                 <ul>
-                    <li>Registration</li>
-                    <li>Login</li>
-                    <li>Password reset</li>
-                    <li>Salary history</li>
-                    <li>Salary calculator</li>
-                    <li>Monthly salary history</li>
-                    <li>Journal</li>
+                    <li>Front-end Validation - JS</li>
+                    <li>Back-end Validation - PHP</li>
+                    <li>Limits</li>
+                    <li>Folder creation</li>
                 </ul>
                 <hr>
                 <h4>Functionality</h4>
                 <ul>
-                    <li>Current month analytics</li>
-                    <li>Google Analytics</li>
-                    <li>Pagination</li>
+                    <li>Drag and Drop</li>
                     <li>Notifications</li>
-                </ul>
-                <hr>
-                <h4>Data storage</h4>
-                <ul>
-                    <li>
-                        CRUD - create, read, update, and delete.
-                    </li>
-                    <li>MySQL</li>
                 </ul>
                 <hr>
                 <h4>Administration</h4>
                 <ul>
-                    <li>Administration tab</li>
+                    <li>Password protected login</li>
                 </ul>
+                <hr>
+                <h4>Data storage</h4>
                 <ul>
-
+                    <li>Server</li>
                 </ul>
 
             </div>

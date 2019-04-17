@@ -4,5 +4,4 @@ $(document).ready(function() {
             $('.navbar-toggler').trigger( "click" );
         }
     });
-
 });

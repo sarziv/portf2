@@ -1,6 +1,6 @@
 <!-- Modal Image -->
-<div class="modal fade bd-example-modal-lg" id="myLargeModalProj1Image" tabindex="-1" role="dialog"
-     aria-labelledby="myLargeModalLabel1" aria-hidden="true">
+<div class="modal fade bd-example-modal-lg" id="myLargeModalProj6Image" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalLabel6" aria-hidden="true">
     <button type="button" class="close modal-button-exit" data-dismiss="modal" aria-label="Close">
         <span class="model-exit-icon" aria-hidden="true"><i class=" fas fa fa-times"></i></span>
     </button>
@@ -27,34 +27,28 @@
 
 
 <!-- Modal 2 -->
-<div class="modal fade bd-example-modal-lg" id="myLargeModalProj1Details" tabindex="-1" role="dialog"
-     aria-labelledby="myLargeModalLabel2" aria-hidden="true">
+<div class="modal fade bd-example-modal-lg" id="myLargeModalProj6Details" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalLabel6" aria-hidden="true">
     <button type="button" class="close modal-button-exit" data-dismiss="modal" aria-label="Close">
         <span class="model-exit-icon" aria-hidden="true"><i class=" fas fa fa-times"></i></span>
     </button>
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="myLargeModalProj1Details">Salary sytem - Features</h5>
+                <h5 class="modal-title" id="myLargeModalProj6Details">Minimalism - Features</h5>
             </div>
             <div class="modal-body">
                 <h4>User</h4>
                 <ul>
                     <li>Registration</li>
                     <li>Login</li>
-                    <li>Password reset</li>
-                    <li>Salary history</li>
-                    <li>Salary calculator</li>
-                    <li>Monthly salary history</li>
-                    <li>Journal</li>
                 </ul>
                 <hr>
-                <h4>Functionality</h4>
+                <h4>Prodcut</h4>
                 <ul>
-                    <li>Current month analytics</li>
-                    <li>Google Analytics</li>
-                    <li>Pagination</li>
-                    <li>Notifications</li>
+                    <li>Select</li>
+                    <li>Remove</li>
+                    <li>Manage</li>
                 </ul>
                 <hr>
                 <h4>Data storage</h4>
@@ -63,14 +57,6 @@
                         CRUD - create, read, update, and delete.
                     </li>
                     <li>MySQL</li>
-                </ul>
-                <hr>
-                <h4>Administration</h4>
-                <ul>
-                    <li>Administration tab</li>
-                </ul>
-                <ul>
-
                 </ul>
 
             </div>

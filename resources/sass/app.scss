@@ -19,6 +19,9 @@ ul {
 }
 
 body, html {
+
+  max-width: 100vw;
+  max-height: 100vh;
   background-color: white;
   margin:0;
   padding:0;
@@ -195,7 +198,7 @@ a {
 //mobile
 @media only screen and (max-width: 900px) {
   .infoDataProjects {
-    height: 400vh;
+    height: 250vh;
     width: auto;
     position: relative;
     background-repeat: no-repeat;
@@ -204,6 +207,7 @@ a {
     font-size: 2vh;
   }
   .projectBox {
+    padding-right: 0;
     padding-top: 3vh;
     height: 60vh;
     margin-bottom: 3vh;
@@ -224,6 +228,9 @@ a {
       position: absolute;
       padding-bottom: 10px;
     }
+  .col-xl-12 {
+    padding-right: 0 !important;
+  }
   }
 
 //desktop
@@ -336,6 +343,7 @@ a {
   color: red;
   width: 15px;
   height: 15px;
+  z-index: 9999999999;
 }
 
 .buttonSize {

@@ -5,7 +5,8 @@
     </button>
     <div class="collapse navbar-collapse col-12" id="navbarNavAltMarkup">
 
-       <a class="navFont" href="#about"><b>A</b><span class="underline">bout</span></a>
+
+        <a class="navFont" href="#about"><b>A</b><span class="underline">bout</span></a>
         <a class="navFont" href="#skills"><b>S</b><span class="underline">kills</span></a>
         <a class="navFont" href="#education"><b>E</b><span class="underline">ducation</span></a>
         <a class="navFont" href="#projects"><b>P</b><span class="underline">rojects</span></a>
