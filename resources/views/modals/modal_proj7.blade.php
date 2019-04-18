@@ -23,7 +23,11 @@
 
                         </li>
                         <li>
-                            <a href="https://github.com/sarziv/Php_reformater" class="buttonSize btn  btn-outline-dark" role="button" aria-pressed="true">Reformatter <i class="fab fa-github"></i></a>
+                            <a href="https://github.com/sarziv/Php_reformater" class="buttonSize btn  btn-outline-dark" role="button" aria-pressed="true">Formatter <i class="fab fa-github"></i></a>
+
+                        </li>
+                        <li>
+                            <a href="https://github.com/sarziv/adventofcode2018" class="buttonSize btn  btn-outline-dark" role="button" aria-pressed="true">AdvCode <i class="fab fa-github"></i></a>
 
                         </li>
                     </ul>

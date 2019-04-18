@@ -10923,10 +10923,6 @@ a {
     position: absolute;
     padding-bottom: 10px;
   }
-
-  .col-xl-12 {
-    padding-right: 0 !important;
-  }
 }
 
 @media only screen and (min-width: 900px) {
@@ -10952,6 +10948,10 @@ a {
     text-align: center;
     position: absolute;
     padding-bottom: 10px;
+  }
+
+  .row {
+    margin-left: 0 !important;
   }
 }
 
