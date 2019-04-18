@@ -35,7 +35,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
   }
-
+//mobile
 @media only screen and (max-width: 900px) {
   .navbar {
     //background: hsla(1,0%,100%,0.8);
@@ -83,7 +83,9 @@ a {
   text-decoration: none !important;
 }
 @media only screen and (min-width: 900px) {
-
+.navbar {
+  background: hsla(1,0%,100%,0.8);
+}
   .underline {
     border-bottom: solid 2px darkred;
     font-size: 2vh;
@@ -130,7 +132,6 @@ a {
   100% {padding-top: 33vh;}
 }
 .infoNameAbout {
-  padding-top: 0vh;
   text-align: center;
   height: 10vh;
   width: auto;

@@ -10736,6 +10736,10 @@ a {
 }
 
 @media only screen and (min-width: 900px) {
+  .navbar {
+    background: rgba(255, 255, 255, 0.8);
+  }
+
   .underline {
     border-bottom: solid 2px darkred;
     font-size: 2vh;
@@ -10819,7 +10823,6 @@ a {
 }
 
 .infoNameAbout {
-  padding-top: 0vh;
   text-align: center;
   height: 10vh;
   width: auto;
