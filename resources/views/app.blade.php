@@ -26,9 +26,6 @@
         <div class="skills">
             @include('layouts.skills')
         </div>
-        <div class="edu">
-            @include('layouts.edu')
-        </div>
         <div class="projects">
             @include('layouts.projects')
         </div>

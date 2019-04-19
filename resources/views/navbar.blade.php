@@ -8,7 +8,6 @@
 
         <a onclick="offsetDesktop()" class="navFont"  href="#about"><b>A</b><span class="underline">bout</span></a>
         <a onclick="offsetDesktop()" class="navFont" href="#skills"><b>S</b><span class="underline">kills</span></a>
-        <a onclick="offsetDesktop()" class="navFont" href="#education"><b>E</b><span class="underline">ducation</span></a>
         <a onclick="offsetDesktop()" class="navFont" href="#projects"><b>P</b><span class="underline">rojects</span></a>
         <a onclick="offsetDesktop()" class="navFont" href="#contacts"><b>C</b><span class="underline">ontacts</span></a>
 
