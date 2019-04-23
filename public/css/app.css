@@ -10767,9 +10767,9 @@ a {
 
 .typerPos {
   z-index: -99;
-  padding-top: 45vh;
+  padding-top: 40vh;
   text-align: center;
-  font-family: "Orbitron", sans-serif;
+  font-family: "Righteous", cursive;
 }
 
 .typerButton {
@@ -10833,11 +10833,39 @@ a {
 }
 
 .infoDataAbout {
+  padding-top: 9vh;
   height: 90vh;
   width: auto;
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.infoDataAbout .about_font {
+  font-size: 3vh;
+  font-family: "Righteous", cursive;
+}
+
+.infoDataAbout .about_info {
+  height: 60vh;
+  padding-top: 2vh;
+  font-size: 2vh;
+  font-family: "Righteous", cursive;
+  background-color: #FED19F;
+  border-radius: 10%;
+}
+
+.infoDataAbout .about_background {
+  width: auto;
+  height: 60vh;
+}
+
+.infoDataAbout .about_background img {
+  padding-top: 3vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
 
 .infoNameSkills {
@@ -10967,6 +10995,7 @@ a {
 .projectOfColor {
   width: auto;
   background-color: #FED19F;
+  border-radius: 5%;
 }
 
 .projectpad {
@@ -10981,19 +11010,6 @@ a {
 .infoDataProjects a:hover {
   text-decoration: none;
   color: white;
-}
-
-.border {
-  border-width: 20px 0 20px 0;
-  border-style: solid;
-  -o-border-image: url(http://suck.direct/img/bordernew.png) 50 0 50 0 repeat;
-     border-image: url(http://suck.direct/img/bordernew.png) 50 0 50 0 repeat;
-  -webkit-border-image: url(http://suck.direct/img/bordernew.png) 50 0 50 0 repeat;
-  -moz-border-image: url(http://suck.direct/img/bordernew.png) 50 0 50 0 repeat;
-  border-image-slice: 50 0 50 0 fill;
-  border-image-width: 20 0 20 0;
-  width: 100%;
-  height: 60px;
 }
 
 .brush {
