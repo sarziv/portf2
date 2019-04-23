@@ -10852,12 +10852,12 @@ a {
   font-size: 2vh;
   font-family: "Righteous", cursive;
   background-color: #FED19F;
-  border-radius: 10%;
+  border-radius: 60%;
 }
 
 .infoDataAbout .about_background {
   width: auto;
-  height: 60vh;
+  height: auto;
 }
 
 .infoDataAbout .about_background img {
@@ -10865,7 +10865,7 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 20%;
 }
 
 .infoNameSkills {
