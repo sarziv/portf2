@@ -10869,7 +10869,6 @@ a {
 }
 
 .infoNameSkills {
-  padding-top: 0vh;
   text-align: center;
   height: 10vh;
   width: auto;
@@ -10888,7 +10887,6 @@ a {
 }
 
 .infoNameProjects {
-  padding-top: 0vh;
   text-align: center;
   height: 10vh;
   width: auto;
@@ -10965,7 +10963,6 @@ a {
 }
 
 .infoNameContacts {
-  padding-top: 0vh;
   text-align: center;
   height: 10vh;
   width: auto;
@@ -11030,10 +11027,6 @@ a {
   .modal-lg {
     max-width: 80%;
   }
-}
-
-.modal-open {
-  padding-right: 0px;
 }
 
 .modal-button-exit {
